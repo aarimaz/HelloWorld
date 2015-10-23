@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "HelloWorld",
+    "packageName": "com.redcrescentgroup.helloworld",
+    "packageFolder": "com/redcrescentgroup/helloworld",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "960d14dd41c5b8c19c96fd5aafdd1a18a4cd35e9"
+  }
+}
