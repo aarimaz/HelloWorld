@@ -1,7 +1,8 @@
 package com.redcrescentgroup.helloworld.repository;
 
 import com.redcrescentgroup.helloworld.domain.PersistentAuditEvent;
-import org.joda.time.LocalDateTime;
+
+import java.time.LocalDateTime;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

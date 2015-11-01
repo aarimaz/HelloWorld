@@ -1,6 +1,7 @@
 package com.redcrescentgroup.helloworld.repository;
 
 import com.redcrescentgroup.helloworld.domain.Authority;
+
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
